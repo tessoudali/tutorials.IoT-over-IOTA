@@ -26,7 +26,7 @@
     "async": "^3.2.2",
     "@iota/client": "^2.2.1",
     "debug": "~4.3.2",
-    "mqtt": "^4.2.8"
+    "mqtt": "^5.3.5"
   },
   "devDependencies": {
     "ajv": "^8.6.3",
